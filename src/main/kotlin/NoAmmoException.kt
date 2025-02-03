@@ -1,0 +1,1 @@
+class NoAmmoException : Throwable(message = "Not enough ammo for shot")
